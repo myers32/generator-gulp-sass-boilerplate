@@ -1,6 +1,6 @@
 # Gulp + Sass boilerplate
 
-A Yeoman generator that creates a initial Gulp and Sass files for initial workflow.
+A Yeoman generator that creates initial Gulp and Sass files for initial workflow.
 Based on [The Codercoder's Gulp generator](https://github.com/thecodercoder/generator-gulp-sass-boilerplate#readme).
 
 ## Instructions
